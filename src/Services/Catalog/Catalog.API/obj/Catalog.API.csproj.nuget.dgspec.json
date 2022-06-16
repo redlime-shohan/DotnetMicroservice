@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Practise\\Dotnet-Microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "E:\\Practice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "E:\\Practise\\Dotnet-Microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {
+    "E:\\Practice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Practise\\Dotnet-Microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "E:\\Practice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "E:\\Practise\\Dotnet-Microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectPath": "E:\\Practice\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "E:\\Practise\\Dotnet-Microservices\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+        "outputPath": "E:\\Practice\\src\\Services\\Catalog\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
