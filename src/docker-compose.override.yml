@@ -9,17 +9,6 @@ services:
     volumes:
       - mongo_data:/data/db
 
-  portainer:
-    container_name: portainer
-    restart: always
-    ports:
-      - "9000:9000"
-      - "9001:9001"
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
-      - portainer_data:/data
-
-
   catalog.api:
     container_name: catalog.api
     environment:
