@@ -2,7 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-src/.vs/**
-src/bin/**
-src/obj/**
-**/bin/Debug/*
+src/.vs
+src/bin
+src/obj
+/src/Services/Basket/Basket.API/bin
+/src/Services/Basket/Basket.API/obj
+/src/Services/Catalog/Catalog.API/bin
+/src/Services/Catalog/Catalog.API/obj
