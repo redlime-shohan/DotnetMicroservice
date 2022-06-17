@@ -18,3 +18,13 @@ E:\Practice\src\bin\Debug\Catalog.API.pdb
 E:\Practice\src\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 E:\Practice\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 E:\Practice\src\obj\Debug\docker-compose.dcproj.CopyComplete
+E:\Practice\src\bin\Debug\Basket.API.deps.json
+E:\Practice\src\bin\Debug\Basket.API.runtimeconfig.json
+E:\Practice\src\bin\Debug\Basket.API.exe
+E:\Practice\src\bin\Debug\Basket.API.dll
+E:\Practice\src\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Practice\src\bin\Debug\Newtonsoft.Json.dll
+E:\Practice\src\bin\Debug\StackExchange.Redis.dll
+E:\Practice\src\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Practice\src\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\Practice\src\bin\Debug\Basket.API.pdb
