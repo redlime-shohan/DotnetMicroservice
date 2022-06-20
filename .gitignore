@@ -11,3 +11,5 @@ src/obj
 /src/Services/Catalog/Catalog.API/obj
 /src/Services/Discount/Discount.API/bin
 /src/Services/Discount/Discount.API/obj
+/src/Services/Discount/Discount.Grpc/bin
+/src/Services/Discount/Discount.Grpc/obj
