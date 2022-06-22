@@ -19,11 +19,13 @@ builder.Services.AddScoped<IBasketRepository, BasketRepository>();
 // Grpc Configuration
 builder.Services.AddGrpcClient<DiscountProtoService.DiscountProtoServiceClient>
     (o => o.Address = new Uri(builder.Configuration["GrpcSettings:DiscountUrl"]));
+
 builder.Services.AddScoped<DiscountGrpcService>();
+builder.Services.AddAutoMapper(typeof(Program));
 
 // MassTransit-RabbitMQ Configuration
 builder.Services.AddMassTransit(config => {
-    config.SetKebabCaseEndpointNameFormatter();
+    //config.SetKebabCaseEndpointNameFormatter();
     config.UsingRabbitMq((ctx, cfg) => {
         cfg.Host(builder.Configuration["EventBusSettings:HostAddress"]);
     });
